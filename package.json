@@ -15,7 +15,7 @@
     "react-native-ble-manager": "^12.5.0",
     "react-native-bluetooth-classic": "^1.60.0-rc.17",
     "react-native-bluetooth-serial-next": "^1.2.3",
-    "react-native-fs": "^2.18.0",
+    "react-native-fs": "^2.20.0",
     "react-native-linear-gradient": "^2.5.6",
     "react-native-system-setting": "^1.7.6"
   },
