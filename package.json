@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "react": "19.2.8",
-    "react-native": "0.86.2",
+    "react-native": "0.87.0",
     "react-native-ble-manager": "^12.5.0",
     "react-native-bluetooth-classic": "^1.60.0-rc.17",
     "react-native-bluetooth-serial-next": "^1.2.3",
